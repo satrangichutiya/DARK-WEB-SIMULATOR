@@ -35,11 +35,11 @@ interface Product {
 const products: Product[] = [
   {
     id: "1",
-    name: "💎 Platinum Credit Collection",
+    name: "💎 NON VBV CREDIT CARD COLLECTION EASY HIT",
     price: "2.5 BTC",
     category: "Financial",
     icon: <CreditCard className="w-8 h-8" />,
-    description: "Ultra-premium platinum card data with unlimited limits - AI GENERATED DEMO",
+    description: "Ultra-premium platinum card data with unlimited limits - easy hit",
     rating: 5.0,
     seller: "PlatinumKing_99",
     inStock: true,
@@ -51,7 +51,7 @@ const products: Product[] = [
     price: "15.0 BTC",
     category: "Documents",
     icon: <FileText className="w-8 h-8" />,
-    description: "Luxury diplomatic passport templates with holographic seals - SIMULATION",
+    description: "Luxury diplomatic passport templates with holographic seals - @SATHYA_0P",
     rating: 4.9,
     seller: "DiamondDoc_Elite",
     inStock: true,
@@ -59,11 +59,14 @@ const products: Product[] = [
   },
   {
     id: "3",
-    name: "📱 iPhone 16 Pro Platinum",
+    name: " I PHONE 15 PRO MAX",
     price: "8.5 BTC",
-    category: "Electronics",
+    category: "ELECTRONIC",
     icon: <Smartphone className="w-8 h-8" />,
-    description: "Limited edition platinum iPhone with custom firmware - VIRTUAL ITEM",
+    description: "Limited edition platinum iPhone with custom firmware - 
+      
+      
+  ",
     rating: 4.8,
     seller: "LuxuryTech_VIP",
     inStock: false
@@ -374,7 +377,7 @@ export function DarkMarketplace({ onBackToTerminal }: DarkMarketplaceProps) {
                 </Button>
 
                 <p className="text-xs text-gray-500 text-center">
-                  Fake transaction - No real payment will be processed
+                  No transaction - No  payment will be processed
                 </p>
               </div>
             </motion.div>
@@ -404,7 +407,7 @@ export function DarkMarketplace({ onBackToTerminal }: DarkMarketplaceProps) {
                 TX Hash: 0xDEADBEEF123456789
               </div>
               <p className="text-xs text-neon-red mt-4">
-                ⚠️ DEMO TRANSACTION - NO REAL PAYMENT OCCURRED
+                ⚠️ PAYMENT SUCCESSFUL SCAM DONE- NO REAL PAYMENT OCCURRED
               </p>
             </motion.div>
           </motion.div>
@@ -417,7 +420,7 @@ export function DarkMarketplace({ onBackToTerminal }: DarkMarketplaceProps) {
           <div className="text-center">
             <div className="mb-4">
               <Badge className="bg-neon-red/20 text-neon-red border-neon-red mb-2">
-                EDUCATIONAL SIMULATION ONLY
+                Real carding hub
               </Badge>
             </div>
             <div className="text-sm text-gray-400 space-y-1">
