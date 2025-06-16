@@ -28,13 +28,27 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="dark">
-        <head>
-          <link rel="preconnect" href="https://fonts.googleapis.com" />
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        </head>
-        <body className={`${inter.className} ${vt323.variable} ${shareTechMono.variable} bg-void-900 text-white overflow-x-hidden`}>
-          {children}
-        </body>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      </head>
+      <body
+        className={`
+          ${inter.className}
+          ${vt323.variable}
+          ${shareTechMono.variable}
+          bg-gradient-to-r
+          from-black
+          via-purple-900
+          to-black
+          bg-[length:300%_300%]
+          animate-slide-neon
+          text-white
+          overflow-x-hidden
+        `}
+      >
+        {children}
+      </body>
     </html>
   );
 }
