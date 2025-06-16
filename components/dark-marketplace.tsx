@@ -68,11 +68,7 @@ const products: Product[] = [
   seller: "LuxuryTech_VIP",
   inStock: false
 },
-      
-  ",
-    rating: 4.8,
-    seller: "LuxuryTech_VIP",
-    inStock: false
+        
   },
   {
     id: "4",
