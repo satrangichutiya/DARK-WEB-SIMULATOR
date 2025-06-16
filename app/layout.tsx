@@ -15,9 +15,9 @@ const shareTechMono = Share_Tech_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VOID DARK WEB MARKET | Educational Demo",
-  description: "Educational cyberpunk dark web marketplace simulation by AAYUSH SIR - Portfolio Demo",
-  keywords: "cyberpunk, dark web, simulation, educational, portfolio, demo",
+  title: "VOID DARK WEB MARKET | RASTE KA MAAL SASTE ME",
+  description: "Educational cyberpunk dark web marketplace simulation by AAYUSH SIR - CHOR BAZAR",
+  keywords: "cyberpunk, dark web, simulation, demo",
   robots: "noindex, nofollow",
 };
 
