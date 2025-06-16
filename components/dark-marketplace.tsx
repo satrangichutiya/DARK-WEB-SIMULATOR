@@ -58,13 +58,16 @@ const products: Product[] = [
     featured: true
   },
   {
-    id: "3",
-    name: " I PHONE 15 PRO MAX",
-    price: "8.5 BTC",
-    category: "ELECTRONIC",
-    icon: <Smartphone className="w-8 h-8" />,
-    description: "Limited edition platinum iPhone with custom firmware - 
-      
+  id: "3",
+  name: "📱 I PHONE 15 PRO MAX",
+  price: "8.5 BTC",
+  category: "Electronics",
+  icon: <Smartphone className="w-8 h-8 text-sky-400" />,
+  description: "Limited edition platinum iPhone with custom firmware",
+  rating: 4.8,
+  seller: "LuxuryTech_VIP",
+  inStock: false
+},
       
   ",
     rating: 4.8,
